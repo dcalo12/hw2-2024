@@ -61,7 +61,7 @@ div.blue {
     border-top: 2px solid #ffffff;
 }
 
-div.blue h2 {
+div.blue > h2 {
     color: #c4c4c4;
 }
 
